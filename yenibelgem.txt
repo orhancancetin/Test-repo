@@ -1,0 +1,1 @@
+bugün git fetch ve git pull komutlarının tanımını ve işlevlerini öğreniyoruz.
